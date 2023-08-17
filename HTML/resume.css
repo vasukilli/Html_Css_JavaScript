@@ -1,0 +1,38 @@
+#header
+{
+    background-color: blue;
+    height: 20vh;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  border-radius: 10px;
+}
+h3{
+    margin-right:10em;
+
+    color: chocolate;
+    font-size: 35px;
+  }
+#header-img
+{
+  float:right;
+  max-height: 100%;
+}
+main{
+    font-family: Helvetica, sans-serif;
+    background-color: #dbddd8;
+    font-style: oblique;
+    font-weight: bold;
+  }
+  
+   
+  
+  form {
+    width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color:red;
+    border: 1px solid pink;
+    border-radius: 5px;
+  }
+  

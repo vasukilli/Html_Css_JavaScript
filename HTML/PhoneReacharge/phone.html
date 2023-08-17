@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Phone Reacharge</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div class ="container">
+            <h1>Phone Reacharge</h1>
+            <form class="reacharge-form">
+                <label for="phone-number">Phone Number:</label>
+                <input type="text" id="phone-number" name="phone-number" required>
+                <label for="Network">Network:</label>
+                <select id="Network" name="network" required>
+                    <option value="">Select Network</option>
+                    <option value="Network1">Airtel</option>
+                    <option value="Network2">Bsnl</option>
+                    <option value="Network3">Jio</option>
+                </select>
+                <label for="amount">Reacharge Amount:</label>
+                <input type="number" id="amount" name="amount" required>
+                <button type="submit">Reacharge Now</button>
+            </form>
+        </div>
+    </body>
+</html>

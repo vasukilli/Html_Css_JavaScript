@@ -1,0 +1,13 @@
+body{
+    background-color:powderblue;
+    text-align:center;
+    font-style:italic;
+    font-size:50;
+}
+h1{
+    border:2px solid green;
+    color:blue;
+}
+p{
+    color:red;
+}

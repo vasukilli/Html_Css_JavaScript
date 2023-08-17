@@ -1,0 +1,27 @@
+.city{
+    background-color:rgb(200,200,200);
+    padding:20px;
+    margin:20px;
+    color:red;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+.town{
+    background-color:rgb(250,20,250);
+    padding:20px;
+    margin:20px;
+    color:green;
+}
+#mystyle
+{
+   background-color:black;
+   color:white;
+   border:3px solid red;
+   text-align:center;
+}
+#mystyle1
+{
+   background-image: url("");
+   border:3px solid green;
+   padding:4px;
+   text-align:center;
+}
